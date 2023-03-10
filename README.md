@@ -1,18 +1,33 @@
-<h1 align="center">Hi 👋, I'm Felipe Scharf</h1>
-<h3 align="center">Through constant learning and practice, I'm a frontend engineer who loves coding, gaming and (a lot of) coffee.</h3>
+### Hi, I'm Felipe
+### Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fscharf&label=Profile%20views&color=0e75b6&style=flat" alt="fscharf" /> </p>
-
-- 🔭 I’m currently working on [Portfolio](https://github.com/fscharf/portfolio-ts)
-
-- 👨‍💻 All of my projects are available at [https://felipescharf.com](https://felipescharf.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/felipe-scharf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/felipe-scharf" height="30" width="40" /></a>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=fscharf&label=Profile%20views&color=0e75b6&style=flat" alt="fscharf" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+👨‍💻 Personal website & portfolio: [https://felipescharf.com](https://felipescharf.com)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fscharf&show_icons=true&locale=en&layout=compact" alt="fscharf" /></p>
+### Connect with me:
+<p>
+  <a href="https://linkedin.com/in/felipe-scharf" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="https://linkedin.com/in/felipe-scharf" height="40" width="40" />
+  </a>
+</p>
+
+### Languages and Tools:
+<p> 
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40" title="javascript" /> 
+  <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="typescript" width="40" height="40" title="typescript" /> 
+  <img src="https://www.svgrepo.com/show/349402/html5.svg" alt="html5" width="40" height="40" title="html5" /> 
+  <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40" title="css3" /> 
+  <img src="https://www.svgrepo.com/show/349502/sass.svg" alt="sass" width="40" height="40" title="sass" /> 
+  <img src="https://www.svgrepo.com/show/349488/react.svg" alt="react" width="40" height="40" title="react" /> 
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" width="40" height="40" title="redux" /> 
+  <img src="https://www.svgrepo.com/show/349374/git.svg" alt="git" width="40" height="40" title="git" /> 
+  <img src="https://www.svgrepo.com/show/373701/jest-snapshot.svg" alt="jest" width="40" height="40" title="jest" /> 
+  <img src="https://www.svgrepo.com/show/353630/cypress.svg" alt="cypress" width="40" height="40" title="cypress" /> 
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fscharf&show_icons=true&locale=en&layout=compact" alt="fscharf" />
+</p>
