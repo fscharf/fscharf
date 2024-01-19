@@ -1,6 +1,5 @@
-### Hello, I'm Felipe | ***Frontend Engineer***
-<p>I have 2+ years of experience as a software engineer, frontend based, using trending technologies.</p>
-<p>I'm creative, team-player and life-long learner.</p>
+<strong>Hello, I'm Felipe 👋</strong>
+<p>I'm a creative, team-player and life-long learner developer</p>
 
 <img src="https://komarev.com/ghpvc/?username=fscharf&label=Profile%20views&color=0e75b6&style=flat" alt="fscharf" /> 
 
