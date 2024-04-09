@@ -1,16 +1,6 @@
 <strong>Hello, I'm Felipe 👋</strong>
 <p>I'm a creative, team-player and life-long learner developer</p>
 
-<img src="https://komarev.com/ghpvc/?username=fscharf&label=Profile%20views&color=0e75b6&style=flat" alt="fscharf" /> 
-
-Visit [felipescharf.com](https://felipescharf.com)
-
-### Connect with me:
-
-<a href="https://linkedin.com/in/felipe-scharf" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="https://linkedin.com/in/felipe-scharf" height="40" width="40" />
-</a>
-
 ### Languages and Tools:
 <p>   
     <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40" title="javascript" /> 
