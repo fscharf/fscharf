@@ -1,6 +1,6 @@
 ### Hello, I'm Felipe! 👋
 
-I'm a Software Engineer with a passion for developing intuitive and dynamic web applications. My expertise lies in crafting efficient, scalable solutions and bringing innovative ideas to life.
+Expected an AI generated description about myself, eh? I'm just a software engineer who likes coffee and games, nothing else.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fscharf&style=flat-square&color=blue)
 
@@ -27,11 +27,13 @@ I'm a Software Engineer with a passion for developing intuitive and dynamic web 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
+### 🌱 Interests
 
-### 🌱 Currently Learning
-
-- **Ruby on Rails** - Building robust and scalable web applications.
-- **AI** - Exploring the frontiers of artificial intelligence.
+- **Ruby on Rails**
+- **Go**
+- **Java**
+- **Cloud**
+- **AI**
 
 
 ### 📈 GitHub Stats
@@ -46,5 +48,7 @@ I'm a Software Engineer with a passion for developing intuitive and dynamic web 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-scharf)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=webe&logoColor=white)](https://felipescharf.com)
+
+${\color{#333}Curiously,\space this \space README \space was \space generated \space by \space AI \space 😳}$
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to connect.
